@@ -1,0 +1,75 @@
+*{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+body{
+
+ background-color: rgb(71, 109, 109);
+background-image: url("https://www.soyuz.ru/public/uploads/files/2/7614753/20221201225751979bc9e124.jpg");
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+}
+    h1{
+        color: rgb(255, 255, 255);
+    }                                                                                                                                        
+
+    hr{
+        background-color: blanchedalmond;
+        width: 40%;
+        float: left;
+    }
+p{
+    background-color: rgba(0, 0, 0, 0.575);
+    
+    padding: 40px;
+    width: 60%;
+}
+
+
+h4{
+color: #000;
+
+}                                                                                                                                        
+
+hr{
+    background-color: blanchedalmond;
+    width: 40%;
+    float: left;
+}
+p{
+background-color: rgba(0, 0, 0, 0.575);
+
+padding: 40px;
+width: 60%;
+}
+
+
+a{
+    width: 150px;
+    display: block;
+    text-decoration: none;
+    background-color: #000000;
+    color: #ffffff;
+    border: solid 2px #ffffff;
+    transition-property: all ;
+    transition-duration: 2s;
+}
+
+li:hover a{
+    background-color: #ff0000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

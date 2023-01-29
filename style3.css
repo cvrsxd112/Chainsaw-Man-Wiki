@@ -1,0 +1,47 @@
+*{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+body{
+
+ background-color: rgb(71, 109, 109);
+background-image: url("https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/2190397/oo90rYsnckgJ9EFoVJPg.jpg");
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+}
+    h1{
+        color: rgb(255, 255, 255);
+    }                                                                                                                                        
+
+    hr{
+        background-color: blanchedalmond;
+        width: 40%;
+        float: left;
+    }
+p{
+    background-color: rgba(0, 0, 0, 0.575);
+    
+    padding: 40px;
+    width: 60%;
+}
+
+
+h4{
+color: #000;
+
+}                                                                                                                                        
+
+hr{
+    background-color: blanchedalmond;
+    width: 40%;
+    float: left;
+}
+p{
+background-color: rgba(0, 0, 0, 0.575);
+
+padding: 40px;
+width: 60%;
+}
+

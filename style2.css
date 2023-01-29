@@ -1,0 +1,47 @@
+*{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+body{
+
+ background-color: rgb(71, 109, 109);
+background-image: url("https://cdn.kanobu.ru/articles/pics/tmp/images/2022/11/10/8170c9ae-1c85-4284-b23e-9e01a3c84e39.webp");
+background-attachment: fixed;
+background-size: cover;
+background-repeat: no-repeat;
+}
+    h1{
+        color: rgb(255, 255, 255);
+    }                                                                                                                                        
+
+    hr{
+        background-color: blanchedalmond;
+        width: 40%;
+        float: left;
+    }
+p{
+    background-color: rgba(0, 0, 0, 0.575);
+    
+    padding: 40px;
+    width: 60%;
+}
+
+
+h4{
+color: #000;
+
+}                                                                                                                                        
+
+hr{
+    background-color: blanchedalmond;
+    width: 40%;
+    float: left;
+}
+p{
+background-color: rgba(0, 0, 0, 0.575);
+
+padding: 40px;
+width: 60%;
+}
+
