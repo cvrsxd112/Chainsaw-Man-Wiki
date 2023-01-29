@@ -84,6 +84,7 @@ li:hover a{
 }
 
 .Post{
+    margin: 20px;
     display: flex;
     color: #ffffff;
     background-color: rgb(27, 27, 27);
